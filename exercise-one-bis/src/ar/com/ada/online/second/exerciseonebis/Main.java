@@ -25,11 +25,11 @@ public class Main {
             //resultado true
             result = "Puede Votar";
 
-        } else{
-                //resultado false
-                result = "No puede votar";
+        } else {
+            //resultado false
+            result = "No puede votar";
 
-            }
+        }
 
         System.out.println("La persona:" + result);
 
